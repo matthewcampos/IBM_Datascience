@@ -1,0 +1,173 @@
+,Country,count,Continent
+0,usa,11095,North America
+1,germany,4947,Europe
+2,india,4231,Asia
+3,uk,3224,Europe
+4,ukraine,2672,Europe
+5,france,2110,Europe
+6,canada,2104,North America
+7,poland,1534,Europe
+8,netherlands,1449,Europe
+9,brazil,1375,South America
+10,italy,1341,Europe
+11,australia,1260,Oceania
+12,spain,1123,Europe
+13,sweden,1016,Europe
+14,russia,925,Europe
+15,switzerland,876,Europe
+16,austria,791,Europe
+17,czech republic,714,Europe
+18,israel,604,Europe
+19,turkey,546,Europe
+20,belgium,526,Europe
+21,denmark,504,Europe
+22,portugal,470,Europe
+23,norway,450,Europe
+24,romania,439,Europe
+25,pakistan,415,Asia
+26,iran,411,Asia
+27,china,406,Asia
+28,mexico,402,North America
+29,new zealand,396,Oceania
+30,hungary,396,Europe
+31,greece,389,Europe
+32,finland,386,Europe
+33,south africa,358,Africa
+34,indonesia,354,Asia
+35,argentina,345,South America
+36,bangladesh,327,Asia
+37,bulgaria,319,Europe
+38,nigeria,305,Africa
+39,vietnam,296,Asia
+40,japan,288,Asia
+41,ireland,270,Europe
+42,taiwan,268,Asia
+43,egypt,262,Africa
+44,slovakia,248,Europe
+45,serbia,245,Europe
+46,colombia,217,South America
+47,south korea,203,Asia
+48,philippines,196,Asia
+49,croatia,187,Europe
+50,lithuania,183,Europe
+51,kenya,180,Africa
+52,singapore,177,Asia
+53,sri lanka,163,Asia
+54,malaysia,161,Asia
+55,thailand,147,Africa
+56,hong kong,146,Asia
+57,slovenia,142,Europe
+58,nepal,139,Asia
+59,chile,133,South America
+60,latvia,128,Europe
+61,estonia,110,Europe
+62,belarus,97,Europe
+63,georgia,94,Europe
+64,kazakhstan,81,Asia
+65,algeria,77,Africa
+66,peru,75,South America
+67,tunisia,71,Africa
+68,ghana,70,Africa
+69,venezuela,69,South America
+70,cyprus,63,Europe
+71,uzbekistan,62,Asia
+72,bosnia and herzegovina,62,Europe
+73,ethiopia,60,Africa
+74,armenia,58,Europe
+75,saudi arabia,56,Asia
+76,afghanistan,56,Asia
+77,costa rica,54,South America
+78,albania,49,Europe
+79,dominican republic,48,South America
+80,lebanon,46,Asia
+81,iraq,44,Asia
+82,kyrgyzstan,44,Asia
+83,jordan,40,Africa
+84,luxembourg,40,Europe
+85,paraguay,39,South America
+86,uganda,39,Africa
+87,moldova,38,Europe
+88,north macedonia,36,Europe
+89,bolivia,32,South America
+90,cameroon,31,Africa
+91,iceland,31,Europe
+92,syria,30,Asia
+93,malta,29,Europe
+94,tanzania,28,Africa
+95,azerbaijan,27,Asia
+96,montenegro,27,Europe
+97,zimbabwe,26,Africa
+98,cuba,23,South America
+99,rwanda,22,Africa
+100,cambodia,22,Asia
+101,nicaragua,21,South America
+102,myanmar,21,Asia
+103,angola,20,Africa
+104,el salvador,19,South America
+105,panama,18,South America
+106,kosovo,18,Europe
+107,yemen,18,Africa
+108,maldives,16,Asia
+109,qatar,15,Asia
+110,zambia,15,Africa
+111,andorra,15,Europe
+112,mauritius,15,Africa
+113,cdi,14,Africa
+114,madagascar,14,Africa
+115,isle of man,13,Oceania
+116,malawi,12,Africa
+117,benin,11,Africa
+118,bahrain,11,Asia
+119,mongolia,10,Asia
+120,senegal,9,Africa
+121,somalia,9,Africa
+122,togo,9,Africa
+123,congo,8,Africa
+124,trinidad and tobago,8,Oceania
+125,kuwait,8,Asia
+126,oman,8,Asia
+127,tajikistan,7,Asia
+128,mozambique,7,Africa
+129,sudan,7,Africa
+130,barbados,6,Oceania
+131,mauritania,5,Africa
+132,antigua and barbuda,5,Oceania
+133,cape verde,5,Africa
+134,suriname,5,South America
+135,namibia,5,Africa
+136,botswana,5,Africa
+137,north korea,5,Asia
+138,liechtenstein,4,Europe
+139,gabon,4,Africa
+140,swaziland,4,Africa
+141,bahamas,4,Oceania
+142,fiji,4,Oceania
+143,burkina faso,4,Africa
+144,liberia,4,Africa
+145,laos,4,Asia
+146,libya,4,Asia
+147,san marino,3,Europe
+148,guyana,3,South America
+149,sierra leone,3,Africa
+150,burundi,3,Africa
+151,dr congo,3,Africa
+152,bhutan,3,Asia
+153,monaco,3,Europe
+154,brunei,3,Asia
+155,guinea-bissau,2,Africa
+156,mali,2,Africa
+157,belize,2,South America
+158,papua new guinea,1,Oceania
+159,equatorial guinea,1,Africa
+160,central african republic,1,Africa
+161,samoa,1,Oceania
+162,niger,1,Africa
+163,guinea,1,Africa
+164,saint kitts and nevis,1,Oceania
+165,lesotho,1,Africa
+166,haiti,1,Oceania
+167,micronesia,1,Oceania
+168,nauru,1,Oceania
+169,chad,1,Africa
+170,djibouti,1,Africa
+171,solomon islands,1,Oceania
